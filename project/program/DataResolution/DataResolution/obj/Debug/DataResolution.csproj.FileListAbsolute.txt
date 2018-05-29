@@ -1,0 +1,7 @@
+E:\毕业设计\program\DataResolution\DataResolution\obj\Debug\DataResolution.csprojAssemblyReference.cache
+E:\毕业设计\program\DataResolution\DataResolution\obj\Debug\DataResolution.csproj.CoreCompileInputs.cache
+E:\毕业设计\program\DataResolution\DataResolution\bin\Debug\DataResolution.exe.config
+E:\毕业设计\program\DataResolution\DataResolution\bin\Debug\DataResolution.exe
+E:\毕业设计\program\DataResolution\DataResolution\bin\Debug\DataResolution.pdb
+E:\毕业设计\program\DataResolution\DataResolution\obj\Debug\DataResolution.exe
+E:\毕业设计\program\DataResolution\DataResolution\obj\Debug\DataResolution.pdb
